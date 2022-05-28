@@ -24,10 +24,6 @@ static MoveBinding move_bindings[] = {
     { XK_l,         1,     0 },
     { XK_k,         0,    -1 },
     { XK_j,         0,     1 },
-    { XK_a,        -1,     0 },
-    { XK_d,         1,     0 },
-    { XK_w,         0,    -1 },
-    { XK_s,         0,     1 },
 };
 
 /* 1: left
