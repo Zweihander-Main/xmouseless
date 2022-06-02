@@ -8,6 +8,8 @@ Features:
 - scroll
 - execute shell commands
 
+## Fork
+- Implement fix to allow for compat with `unclutter-xfixes` as described [here](https://github.com/jbensmann/xmouseless/issues/10).
 
 ## Installation
 ```
